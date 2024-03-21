@@ -1,11 +1,11 @@
-@media (min-width:451px) and (max-width:768px) {
+@media (min-width:451px) and (max-width:830px) {
     .headerTop {
         display: none;
       }
       .navbar-toggler,.navbar-toggler-icon {
         background-color: white;
       }
-      .logoContainer{
+      .logoContainerr{
         width: 30%;
         display: block;
       }
