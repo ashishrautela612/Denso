@@ -1,82 +1,91 @@
 @media (max-width: 450px) {
-  p{
+  p {
     text-align: left !important;
     width: 100% !important;
     padding-top: 20px !important;
   }
-    .headerTop {
+  .headerTop {
     display: none;
   }
-.logoContainerr{ display: block;}
-
-  .navbar-toggler,.navbar-toggler-icon {
-    background-color: white;
+  .logoContainerr {
+    display: block;
+    width: 30%;
   }
-  .logoContainer{
+
+  .navbar-toggler,
+  .navbar-toggler-icon {
+    background-color: white;
+   
+  }
+  .navbar-toggler-icon {
+    height: 1em;
+    width: 1em;
+  }
+  .logoContainer {
     width: 43%;
   }
-  .logoContainer > img {
+  .logoContainerr > img {
     width: 100%;
   }
-  .homeSection{
+  .homeSection {
     padding-top: 50px;
   }
-  .homeSectionheading{
+  .homeSectionheading {
     text-align: center;
   }
-  .formSectionContainer{
+  .formSectionContainer {
     margin-top: 2%;
   }
   .homeSectionheadingContainer > h1 {
     font-size: 2rem;
-}
-.formContainer {
+  }
+  .formContainer {
     padding: 3% 5%;
-}
-.formSectionContainer .formContainer input {
+  }
+  .formSectionContainer .formContainer input {
     height: 30px;
     width: 100%;
-}
-.transportSection p{
+  }
+  .transportSection p {
     text-align: left !important;
     width: 100% !important;
     padding-top: 20px !important;
-}
-.iconSection{
+  }
+  .iconSection {
     flex-direction: column;
-}
-.newsContainer{
+  }
+  .newsContainer {
     flex-direction: column;
     gap: 20px;
-}
-.card{
+  }
+  .card {
     width: 100% !important;
-}
+  }
 
-.cardCircle{
-  display: none !important;
-}
-.testimonials{
+  .cardCircle {
+    display: none !important;
+  }
+  .testimonials {
     flex-direction: column;
     gap: 20px;
     padding-top: 0px !important;
-}
-.testimonialCard{
+  }
+  .testimonialCard {
     width: 100% !important;
-}
-.formSection{
+  }
+  .formSection {
     padding-top: 0 !important;
-}
-.formSection > form {
+  }
+  .formSection > form {
     width: 100% !important;
-}
-.footerUprBar > div{
+  }
+  .footerUprBar > div {
     flex-direction: column;
-}
-.footerSection > div {
+  }
+  .footerSection > div {
     flex-direction: column;
-}
-.footerLeft{
-  border: 0;
-}
+  }
+  .footerLeft {
+    border: 0;
+  }
 }
