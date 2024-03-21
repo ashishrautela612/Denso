@@ -23,7 +23,7 @@ The 'Denso' website template is designed for a transportation company to showcas
 
 ## Screenshots
 
-![Landing Page](./public/screenshots/Landing%20Page.png)
+![Landing Page](./public/screenshots/Screenshot%20(80).png)
 ![About Section](./public/screenshots/AboutSection.png)
 ![Transport Section](./public/screenshots/transportSection.png)
 ![Contact Form](./public/screenshots/contactus.png)
