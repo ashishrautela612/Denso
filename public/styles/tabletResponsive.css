@@ -1,0 +1,30 @@
+@media (min-width:451px) and (max-width:768px) {
+    .headerTop {
+        display: none;
+      }
+      .navbar-toggler,.navbar-toggler-icon {
+        background-color: white;
+      }
+      .logoContainer{
+        width: 30%;
+        display: block;
+      }
+
+      .logoContainer > img {
+        width: 100%;
+      }
+      .newsContainer{
+        flex-direction: column;
+        gap: 50px;
+    }
+    .card{
+        width: 100% !important;
+    }
+    .cardCircle {
+        left: 44%;
+        top: 68%;
+    }
+    .footerLeft{
+      border: 0;
+    }
+}

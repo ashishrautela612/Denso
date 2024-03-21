@@ -1,0 +1,82 @@
+@media (max-width: 450px) {
+  p{
+    text-align: left !important;
+    width: 100% !important;
+    padding-top: 20px !important;
+  }
+    .headerTop {
+    display: none;
+  }
+.logoContainer{ display: block;}
+
+  .navbar-toggler,.navbar-toggler-icon {
+    background-color: white;
+  }
+  .logoContainer{
+    width: 43%;
+  }
+  .logoContainer > img {
+    width: 100%;
+  }
+  .homeSection{
+    padding-top: 50px;
+  }
+  .homeSectionheading{
+    text-align: center;
+  }
+  .formSectionContainer{
+    margin-top: 2%;
+  }
+  .homeSectionheadingContainer > h1 {
+    font-size: 2rem;
+}
+.formContainer {
+    padding: 3% 5%;
+}
+.formSectionContainer .formContainer input {
+    height: 30px;
+    width: 100%;
+}
+.transportSection p{
+    text-align: left !important;
+    width: 100% !important;
+    padding-top: 20px !important;
+}
+.iconSection{
+    flex-direction: column;
+}
+.newsContainer{
+    flex-direction: column;
+    gap: 20px;
+}
+.card{
+    width: 100% !important;
+}
+
+.cardCircle{
+  display: none !important;
+}
+.testimonials{
+    flex-direction: column;
+    gap: 20px;
+    padding-top: 0px !important;
+}
+.testimonialCard{
+    width: 100% !important;
+}
+.formSection{
+    padding-top: 0 !important;
+}
+.formSection > form {
+    width: 100% !important;
+}
+.footerUprBar > div{
+    flex-direction: column;
+}
+.footerSection > div {
+    flex-direction: column;
+}
+.footerLeft{
+  border: 0;
+}
+}
