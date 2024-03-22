@@ -4,6 +4,9 @@
     width: 100% !important;
     padding-top: 20px !important;
   }
+  .navBarSection{
+    padding: 2% 0;
+  }
   .headerTop {
     display: none;
   }
@@ -53,6 +56,9 @@
   }
   .iconSection {
     flex-direction: column;
+  }
+  .icon{
+    animation: none;
   }
   .newsContainer {
     flex-direction: column;
